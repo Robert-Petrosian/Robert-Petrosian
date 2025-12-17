@@ -113,8 +113,6 @@ Experienced DevOps engineer specializing in cloud infrastructure, containerizati
 
 <div align="center">
 
-![Snake animation](https://github.com/Robert-Petrosian/Robert-Petrosian/blob/output/github-contribution-grid-snake.svg)
-
 **Building the future, one infrastructure at a time 🚀**
 
 </div>

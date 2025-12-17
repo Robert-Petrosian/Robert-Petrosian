@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-petrosian&label=Profile%20views&color=0e75b6&style=flat" alt="robert-petrosian" /> </p>
 
-- 🔭 I’m currently working on [Quantum Advertising](https://quantad.ru)
-
 - 📫 How to reach me **@iLEV3L**
 
 <p align="left">
